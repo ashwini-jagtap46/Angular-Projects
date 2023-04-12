@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "id": 1,
+      "productName": "Guava",
+      "category": "Fruits",
+      "date": "2023-02-27T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 30,
+      "comment": "Mango added"
+    },
+    {
+      "id": 2,
+      "productName": "zxcz",
+      "category": "vegetables",
+      "date": "2023-02-27T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 3,
+      "comment": "dfgdfg"
+    },
+    {
+      "id": 3,
+      "productName": "xcv",
+      "category": "Fruits",
+      "date": "2023-04-19T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 3,
+      "comment": "ds"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
